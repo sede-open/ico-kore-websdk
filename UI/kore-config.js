@@ -30,8 +30,8 @@
 
 
     botOptions.JWTUrl = "http://localhost:8080/generate-token";
-    botOptions.JWTUrl = "https://6796-2401-4900-659b-b4db-3c62-abe9-1671-147e.ngrok-free.app/shell-dev/generate-token";
-    botOptions.botInfoUrl = "https://6796-2401-4900-659b-b4db-3c62-abe9-1671-147e.ngrok-free.app/shell-dev/get-bot-info";
+    botOptions.JWTUrl = "https://60f4-2a01-4b00-80f6-9600-a012-4da7-728b-6cd9.ngrok-free.app/generate-token";
+    botOptions.botInfoUrl = "https://60f4-2a01-4b00-80f6-9600-a012-4da7-728b-6cd9.ngrok-free.app/get-bot-info";
 
     botOptions.userIdentity = 'PLEASE_ENTER_USER_EMAIL_ID';// Provide users email id here
 
